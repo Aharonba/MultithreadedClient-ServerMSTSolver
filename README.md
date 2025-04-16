@@ -1,4 +1,4 @@
-# eMultithreaded Client‑Server MST Solver (C++)
+# Multithreaded Client‑Server MST Solver (C++)
 
 ## 📜 Overview
 
@@ -17,9 +17,6 @@ This project provides a multithreaded **client–server** platform written in C+
 
 
 
----
-
-*Feel free to open issues or submit pull requests!*
 
 
 
