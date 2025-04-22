@@ -89,8 +89,4 @@ SolveMST Prim
 
 ---
 
-## 💡 Highlights
 
-✅ Designed with scalability and modularity in mind  
-✅ Demonstrates real-world backend patterns and memory safety  
-✅ Ideal for showcasing backend C++ skills in interviews or GitHub
